@@ -219,8 +219,9 @@ Built a **3-page interactive dashboard**.
 
 ✔ Monthly Revenue Trend (Line Chart)  
 ✔ Sales by Region (Bar Chart)
-![Executive Summary](images/Execute_Summary.png)
+
 ---
+![Executive Summary](images/Execute_Summary.png)
 
 ## 📄 Page 2 — Product Performance
 
@@ -228,8 +229,9 @@ Built a **3-page interactive dashboard**.
 ✔ Profit by Category  
 ✔ Top 10 Products  
 ✔ Discount vs Profit (Scatter Plot)
-![Product Performance](images/Product_Performance.png)
+
 ---
+![Product Performance](images/Product_Performance.png)
 
 ## 📄 Page 3 — Customer Insights
 
@@ -238,8 +240,9 @@ Built a **3-page interactive dashboard**.
 ✔ Category Filter  
 ✔ Date Slicer  
 ✔ Detailed Orders Table  
-![Customer Insights](images/Customer_Insights.png)
+
 ---
+![Customer Insights](images/Customer_Insights.png)
 
 # 🧮 DAX Measures Used
 
