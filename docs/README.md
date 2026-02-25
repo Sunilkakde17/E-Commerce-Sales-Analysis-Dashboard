@@ -221,7 +221,7 @@ Built a **3-page interactive dashboard**.
 ✔ Sales by Region (Bar Chart)
 
 ---
-![Executive Summary](images/Execute_Summary.png)
+<img src="images/Execute_Summary.png" width="900">
 
 ## 📄 Page 2 — Product Performance
 
@@ -231,7 +231,7 @@ Built a **3-page interactive dashboard**.
 ✔ Discount vs Profit (Scatter Plot)
 
 ---
-![Product Performance](images/Product_Performance.png)
+<img src="images/Product_Performance.png" width="900">
 
 ## 📄 Page 3 — Customer Insights
 
@@ -242,7 +242,7 @@ Built a **3-page interactive dashboard**.
 ✔ Detailed Orders Table  
 
 ---
-![Customer Insights](images/Customer_Insights.png)
+<img src="images/Customer_Insights.png" width="900">
 
 # 🧮 DAX Measures Used
 
